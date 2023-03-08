@@ -5,5 +5,5 @@ to be entered into the file. This was my first time applying methods.
 
 MidtermProject: My second project done in my second programming class. Purpose of this project was to create a program that operates as an employee directory where you
 can load an initial set of employees and then add, remove, or sort employees based on ID number, salary, or name. You can retrieve individual employees or display 
-all employees in the directory, as well as display specific employees depending on salary range. This project was my first time learning how to create classes with 
-certain characteristics of our choosing.
+all employees in the directory, as well as display specific employees depending on salary range. This project was my first time learning about classes, their data
+fields, and how that defines a class. 
