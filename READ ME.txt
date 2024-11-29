@@ -1,2 +1,3 @@
 Welcome to my portfolio! My name is Darryl Chajon and this repository consists of some of the programs that I have created throughout my school career. I have
-created much more programs than the ones I placed in here, but the ones you see here are some of my more significant and cohesive projects.
+created much more programs than the ones I placed in here, but the ones you see here are some of my more significant and cohesive projects. I do have experience
+creating projects with other languages outside of what you see here (Java and C) like Assembly Language, SQL, and python.
