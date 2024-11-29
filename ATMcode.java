@@ -1,7 +1,7 @@
 /* ATMCode: My first project from my first computing class. Purpose of this project was to create a program that operates like an ATM, the program prompts the
 user to verify their account number and pin, then once verified they may perform operations on the account. This was done in tandem with other partners so
-it is quite flawed. One of my partners used a switch statement for exact, set account numbers rather than creating a method that allows for different account numbers 
-to be entered into the file. This was my first time applying methods. */
+it is quite flawed. One of my partners used a switch statement for exact, set account numbers rather than creating a method that allows for different account 
+numbers to be entered into the file. This was my first time applying methods. */
 	
 import java.util.Scanner;
 public class ATMcode {
