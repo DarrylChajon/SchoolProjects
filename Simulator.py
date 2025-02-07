@@ -1,4 +1,4 @@
-# Simulator.py is a small project that I created to translate between machine code and assembly language by defining the values of the registers. 
+# Simulator.py is a small project that I created to translate between machine code and assembly language by defining the values of the registers.
 
 import argparse
 import re
