@@ -1,5 +1,5 @@
-// Homework assignment where I created a program that would take a specified number string of characters, check if the input is actually a series of chars, 
-// then sort them in order.
+// Homework assignment where I created a program that would take a specified number string of characters, check if the input
+// is actually a series of chars, then sort them in order.
 
 #include <stdio.h>
 #include <stdlib.h>
