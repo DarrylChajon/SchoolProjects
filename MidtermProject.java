@@ -1,7 +1,8 @@
-/* MidtermProject: My second project done in my second programming class. Purpose of this project was to create a program that operates as an employee directory
-where you can load an initial set of employees and then add, remove, or sort employees based on ID number, salary, or name. You can retrieve individual employees 
-or display all employees in the directory, as well as display specific employees depending on salary range. This project was my first time learning about classes, 
-their data fields, and how that defines a class. */
+/* MidtermProject: My second project done in my second programming class. Purpose of this project was to create a program 
+that operates as an employee directory where you can load an initial set of employees and then add, remove, or sort employees 
+based on ID number, salary, or name. You can retrieve individual employees or display all employees in the directory, as well 
+as display specific employees depending on salary range. This project was my first time learning about classes, their data fields, 
+and how that defines a class. */
 
 package com.mycompany.midtermproject;
 
